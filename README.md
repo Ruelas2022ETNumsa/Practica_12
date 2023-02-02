@@ -85,7 +85,7 @@ float Promedio(int n){
 #### Ejecucion 1
 
 
-> ${\color{TealBlue}\mbox{Prueba 1 }}$
+Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3-A9-2qNeQQ" target="_blank"><img src="https://i.postimg.cc/gc8hRJcz/progmb.gif" width="300"/></a>
@@ -180,7 +180,7 @@ void Enunciado(){
 
 #### Ejecucion_2
 
-> ${\color{TealBlue}\mbox{Prueba 1 }}$
+Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5-KyDwsx4ko" target="_blank"><img src="https://i.postimg.cc/gc8hRJcz/progmb.gif" width="300"/></a>
@@ -284,8 +284,8 @@ void Enunciado(){
 
 #### Ejecucion_3
 
-> ${\color{TealBlue}\mbox{Prueba 1 }}$
-> 
+Enlace al programa ( ${\color{orange}\mbox{crtl+clic = abrir otra ventana}}$ ), sobre la imagen :
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=0S7uiISVb6M" target="_blank"><img src="https://i.postimg.cc/gc8hRJcz/progmb.gif" width="300"/></a>
 </p>
