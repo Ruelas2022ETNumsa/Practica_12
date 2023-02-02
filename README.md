@@ -13,17 +13,17 @@
 #### Diagrama_de_flujo_1
 > ${\color{TealBlue}\mbox{Flujograma  (funcion principal)}}$
 <p align="center">
-  <img   src="P12_E1/P12_E1_D00.jpg">
+  <img   src="P12_E1/P12_E1_D00.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (N terminos)}}$
 <p align="center">
-  <img   src="P12_E1/P12_E1_D01.jpg">
+  <img   src="P12_E1/P12_E1_D01.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (Factorial)}}$
 <p align="center">
-  <img   src="P12_E1/P12_E1_D02.jpg">
+  <img   src="P12_E1/P12_E1_D02.png">
 </p>
 
 #### Codificacion_en_C_1
@@ -100,17 +100,17 @@ float Promedio(int n){
 
 > ${\color{TealBlue}\mbox{Flujograma  (funcion principal)}}$
 <p align="center">
-  <img   src="P12_E2/P12_E2_D00.jpg">
+  <img   src="P12_E2/P12_E2_D00.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (comprobando datos)}}$
 <p align="center">
-  <img   src="P12_E2/P12_E2_D01.jpg">
+  <img   src="P12_E2/P12_E2_D01.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (Sumatoria)}}$
 <p align="center">
-  <img   src="P12_E2/P12_E2_D02.jpg">
+  <img   src="P12_E2/P12_E2_D02.png">
 </p>
 
 
@@ -189,22 +189,22 @@ void Enunciado(){
 
 > ${\color{TealBlue}\mbox{Flujograma  (funcion principal)}}$
 <p align="center">
-  <img   src="P12_E3/P12_E3_D00.jpg">
+  <img   src="P12_E3/P12_E3_D00.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (Terminos)}}$
 <p align="center">
-  <img   src="P12_E3/P12_E3_D01.jpg">
+  <img   src="P12_E3/P12_E3_D01.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (termino n simo)}}$
 <p align="center">
-  <img   src="P12_E3/P12_E3_D02.jpg">
+  <img   src="P12_E3/P12_E3_D02.png">
 </p>
 
 > ${\color{TealBlue}\mbox{Flujograma  (termino n simo)}}$
 <p align="center">
-  <img   src="P12_E3/P12_E3_D03.jpg">
+  <img   src="P12_E3/P12_E3_D03.png">
 </p>
 
 #### Codificacion_en_C_3
